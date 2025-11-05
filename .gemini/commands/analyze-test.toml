@@ -1,0 +1,5 @@
+description = "코딩 테스트 분석 [문제 파일 경로]"
+prompt = """
+{{args}}
+코딩문제를 분석한 뒤 같은 폴더에 analyze.md 파일에 저장해줘
+"""
